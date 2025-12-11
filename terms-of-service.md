@@ -1,0 +1,19 @@
+# Terms of Service
+
+**Last updated:** December 12, 2025
+
+This Terms of Service governs your access to the **Cidade Quantica Monitor** Discord application.
+
+## 1. Purpose
+This application is a passive monitoring tool used for personal research on public blockchain ecosystems. It does not interact with users, send messages, or modify any content.
+
+## 2. Usage
+The bot only reads public messages in servers where it is explicitly invited by an administrator. It performs no automated actions, spam, or data extraction beyond local analysis.
+
+## 3. No Commercial Use
+This tool is not offered as a commercial service and is not affiliated with Discord, any blockchain project, or third-party entity.
+
+## 4. No Warranty
+The application is provided "as is" without warranties of any kind.
+
+By allowing this bot in your server, you acknowledge that it operates in read-only mode and complies with Discord’s Developer Terms of Service.
